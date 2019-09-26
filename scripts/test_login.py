@@ -12,4 +12,4 @@ class TestLogin:
         print("hello")
 
     def test_login1(self):
-        assert  0
+        assert 0
